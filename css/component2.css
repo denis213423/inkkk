@@ -1,0 +1,504 @@
+.footer-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1920px;
+  height: 153px;
+}
+.icon1 {
+  position: absolute;
+  height: 56.87%;
+  width: 3.12%;
+  top: 16.34%;
+  right: 71.09%;
+  bottom: 26.79%;
+  left: 25.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.div39,
+.div40,
+.div41,
+.div42,
+.div43 {
+  position: absolute;
+  top: 39px;
+  left: 647px;
+  display: inline-block;
+  width: 142px;
+  height: 27px;
+  cursor: pointer;
+}
+.div40,
+.div41,
+.div42,
+.div43 {
+  left: 814px;
+}
+.div41,
+.div42,
+.div43 {
+  left: 983px;
+  width: 170px;
+}
+.div42,
+.div43 {
+  left: 1180px;
+  width: 142px;
+}
+.div43 {
+  left: 1347px;
+}
+.p6 {
+  margin: 0;
+}
+.txt3 {
+  line-break: anywhere;
+  width: 100%;
+}
+.div44,
+.div45,
+.inkharmonygmailcom1 {
+  position: absolute;
+  font-size: var(--font-size-xs);
+}
+.div44 {
+  top: 75px;
+  left: 857px;
+  line-height: 160%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  width: 99px;
+  height: 42px;
+}
+.div45,
+.inkharmonygmailcom1 {
+  top: 78px;
+  left: 1368px;
+  display: inline-block;
+  width: 100px;
+  height: 13px;
+}
+.inkharmonygmailcom1 {
+  top: 97px;
+  left: 1349px;
+  width: 138px;
+  height: 19px;
+}
+.footer1 {
+  position: absolute;
+  top: 1595px;
+  left: 0;
+  width: 1920px;
+  height: 153px;
+  color: var(--color-white);
+}
+.icon-call1,
+.icon-location1 {
+  position: absolute;
+  height: 7.62%;
+  width: 9.15%;
+  top: 20.15%;
+  right: 82.38%;
+  bottom: 72.23%;
+  left: 8.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-location1 {
+  height: 7.65%;
+  width: 8.02%;
+  top: 20.07%;
+  right: 45.74%;
+  bottom: 72.28%;
+  left: 46.24%;
+}
+.div46,
+.div47,
+.div48,
+.div49,
+.inkharmonygmaicom1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.div46 {
+  top: 0;
+  left: 423px;
+  font-size: var(--font-size-21xl);
+  text-align: left;
+  width: 298px;
+  height: 64px;
+}
+.div47,
+.div48,
+.div49,
+.inkharmonygmaicom1 {
+  top: 94px;
+  left: 128px;
+  width: 893px;
+  height: 74px;
+}
+.div48,
+.div49,
+.inkharmonygmaicom1 {
+  top: 411px;
+  left: 35px;
+  justify-content: center;
+  width: 196px;
+  height: 50px;
+}
+.div49,
+.inkharmonygmaicom1 {
+  left: 381px;
+  width: 388px;
+}
+.inkharmonygmaicom1 {
+  top: 413px;
+  left: 852px;
+  width: 256px;
+}
+.image-11-icon1,
+.gps {
+  position: absolute;
+  top: 975px;
+  left: 43px;
+  width: 1058px;
+  height: 400px;
+  object-fit: cover;
+}
+.image-11-icon1 {
+  top: 270px;
+  left: 946px;
+  width: 126px;
+  height: 126px;
+}
+.div50,
+.div51 {
+  position: absolute;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.div50 {
+  top: 524px;
+  font-size: 36px;
+  justify-content: center;
+  width: 251px;
+  height: 75px;
+}
+.div51 {
+  top: 599px;
+  font-weight: 300;
+  text-align: left;
+  width: 325px;
+  height: 210px;
+}
+.image-13-icon {
+  position: absolute;
+  top: 524px;
+  left: 497px;
+  width: 647px;
+  height: 384px;
+  object-fit: cover;
+}
+.connection1 {
+  position: absolute;
+  height: 78.66%;
+  width: 59.58%;
+  top: 10.01%;
+  right: 20.21%;
+  bottom: 11.33%;
+  left: 20.21%;
+  font-size: var(--font-size-5xl);
+}
+.header-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 170px;
+}
+.div52,
+.div53,
+.div54,
+.div55,
+.div56 {
+  position: absolute;
+  top: 75px;
+  left: 97px;
+  display: inline-block;
+  width: 105px;
+  height: 30px;
+  cursor: pointer;
+}
+.div53,
+.div54,
+.div55,
+.div56 {
+  left: 230px;
+  width: 97px;
+}
+.div54,
+.div55,
+.div56 {
+  left: 355px;
+  width: 138px;
+}
+.div55,
+.div56 {
+  left: 521px;
+  width: 85px;
+}
+.div56 {
+  left: 634px;
+  width: 112px;
+}
+.icon-search-normal-11,
+.icon2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon2 {
+  height: 51.18%;
+  width: 3.12%;
+  top: 24.71%;
+  right: 48.44%;
+  bottom: 24.11%;
+  left: 48.44%;
+  cursor: pointer;
+}
+.icon-search-normal-11 {
+  height: 20.98%;
+  width: 1.86%;
+  top: 40.59%;
+  right: 11.01%;
+  bottom: 38.43%;
+  left: 87.14%;
+}
+.mdi-lightaccount-icon1 {
+  position: absolute;
+  top: 58px;
+  left: 1747px;
+  width: 56px;
+  height: 56px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.div57 {
+  top: 114px;
+  left: 1604px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  display: inline-block;
+  width: 145px;
+  height: 23px;
+}
+.div57,
+.div58,
+.header1 {
+  position: absolute;
+}
+.div58 {
+  top: 114px;
+  left: 1755px;
+  font-size: var(--font-size-mini);
+  font-weight: 300;
+  display: inline-block;
+  width: 55px;
+  height: 23px;
+}
+.header1 {
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 170px;
+  text-align: left;
+}
+.contacts {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1748px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+.mail-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 450px;
+  height: 70px;
+}
+.div30 {
+  position: absolute;
+  top: 25px;
+  left: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 68px;
+  height: 20px;
+}
+.mail,
+.pass,
+.vhod-child {
+  position: absolute;
+  top: 87px;
+  left: 137px;
+  width: 450px;
+  height: 70px;
+}
+.pass,
+.vhod-child {
+  top: 180px;
+}
+.vhod-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.div32 {
+  top: 26px;
+  left: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 215px;
+  height: 36px;
+}
+.div32,
+.div33,
+.vhod1 {
+  position: absolute;
+}
+.vhod1 {
+  top: 273px;
+  left: 137px;
+  width: 450px;
+  height: 70px;
+  color: var(--color-white);
+}
+.div33 {
+  top: 24px;
+  left: 219px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 286px;
+  height: 55px;
+}
+.vhod {
+  position: relative;
+  background-color: var(--color-white);
+  width: 723px;
+  height: 374px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
+.mail-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 450px;
+  height: 70px;
+}
+.div34 {
+  position: absolute;
+  top: 25px;
+  left: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 68px;
+  height: 20px;
+}
+.div36,
+.mail1,
+.pass1 {
+  position: absolute;
+  top: 87px;
+  left: 137px;
+  width: 450px;
+  height: 70px;
+}
+.div36,
+.pass1 {
+  top: 180px;
+}
+.div36 {
+  top: 25px;
+  left: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 233px;
+  height: 20px;
+}
+.dpass,
+.reg-child {
+  position: absolute;
+  top: 273px;
+  left: 137px;
+  width: 450px;
+  height: 70px;
+}
+.reg-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+}
+.div37 {
+  top: 26px;
+  left: 32px;
+  font-weight: 300;
+  display: inline-block;
+  width: 215px;
+  height: 36px;
+}
+.div37,
+.div38,
+.reg1 {
+  position: absolute;
+}
+.reg1 {
+  top: 377px;
+  left: 137px;
+  width: 450px;
+  height: 70px;
+  color: var(--color-white);
+}
+.div38 {
+  top: 24px;
+  left: 243px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 237px;
+  height: 55px;
+}
+.reg {
+  position: relative;
+  background-color: var(--color-white);
+  width: 723px;
+  height: 480px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-bahnschrift);
+}
